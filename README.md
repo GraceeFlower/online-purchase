@@ -1,5 +1,4 @@
-# online-purchase
-Online-purchase App  
+# online-purchase  
 This is a part of an online-purchase App about different IT courses.  
 My simple Web page contains three parts:  
 
