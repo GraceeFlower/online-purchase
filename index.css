@@ -60,3 +60,24 @@ body {
 .third-p {
   border-color: #becac8;
 }
+
+.list {
+  display: flex;
+  justify-content: space-around;
+  flex-flow: row wrap;
+  padding: 10px;
+  text-align: center;
+}
+
+.item {
+  display: inline-block;
+  width: 29%;
+  height: 40px;
+  line-height: 40px;
+  margin-top: 10px;
+  border: 1px solid #ededed;
+  border-radius: 25px;
+  color: #3e4041;
+  font-size: 17px;
+  text-decoration: none;
+}  
