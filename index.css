@@ -81,3 +81,11 @@ body {
   font-size: 17px;
   text-decoration: none;
 }  
+
+.item:hover {
+  color: #fff;
+  background-color: #ea434e;
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
+  /* 去除点击时出现的蓝色框 */
+}
