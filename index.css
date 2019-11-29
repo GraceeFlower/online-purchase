@@ -34,3 +34,29 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+.point-list {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
+
+.point {
+  display: inline-block;
+  width: 0;
+  height: 0;
+  border: 5px solid #fff;
+  border-radius: 50%;
+}
+
+.first-p {
+  border-color: #313d3c;
+}
+
+.second-p {
+  border-color: #343e40;
+}
+
+.third-p {
+  border-color: #becac8;
+}
