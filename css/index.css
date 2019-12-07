@@ -14,7 +14,7 @@ body {
   color: #fff;
 }
 
-.btn {
+.nav-btn {
   width: 12%;
   outline: none;
   border: none;
@@ -49,19 +49,19 @@ body {
   border-radius: 50%;
 }
 
-.first-p {
+.frontend-point {
   border-color: #313d3c;
 }
 
-.second-p {
+.java-point {
   border-color: #343e40;
 }
 
-.third-p {
+.mobile-point {
   border-color: #becac8;
 }
 
-.list {
+.course-list {
   display: flex;
   justify-content: space-around;
   flex-flow: row wrap;
@@ -69,7 +69,7 @@ body {
   text-align: center;
 }
 
-.item {
+.course-item {
   display: inline-block;
   width: 29%;
   height: 40px;
@@ -82,7 +82,7 @@ body {
   text-decoration: none;
 }  
 
-.item:hover {
+.course-item:hover {
   color: #fff;
   background-color: #ea434e;
   outline: none;
